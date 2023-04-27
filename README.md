@@ -2,7 +2,7 @@
 Codigo de la practica de Simulacion de Señales
 
 ## Simulación de Sistemas
-Docente: Majalca Martinez Ricardo
+Docente: Majalca Martinez Ricardo</br>
 Grupo: 9CC2
 
 - Jimenez Hernandez Jesus Alejandro 338906
